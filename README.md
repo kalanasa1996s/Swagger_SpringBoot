@@ -39,3 +39,8 @@ Create Swagger Api Doc For Springboot Project
     3).Now we can test it in our browser by visiting
     
        http://localhost:yourPort/swagger-ui.html#/
+       
+       
+
+    * boot version 2.6 or higher Not working properly (2022.2.21)
+            https://stackoverflow.com/questions/70036953/springboot-2-6-0-spring-fox-3-failed-to-start-bean-documentationpluginsboot/70037507#70037507
